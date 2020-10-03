@@ -8,6 +8,10 @@ export const contributors = [
     githubProfile: 'https://github.com/AlirezaTeimoori'
   },
   {
+    name: 'kamalchah',
+    githubProfile: 'https://github.com/kamalchah'
+  },
+  {
     name: 'AutoScott',
     githubProfile: 'https://github.com/SolidSoundGuy'
   },
@@ -66,6 +70,10 @@ export const contributors = [
   {
     name: 'Bardia Parmoun',
     githubProfile: 'https://github.com/bardia-p'
+  },
+  {
+    name: 'Nathan MacDiarmid',
+    githubProfile: 'https://github.com/NathanMacDiarmid'
   },
   {
     name: 'Eren Sulutas',
